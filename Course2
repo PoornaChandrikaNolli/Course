@@ -1,20 +1,3 @@
-Name: Poorna Chandrika
-Key Concepts:
-1. Version Control System
-2. Background of Version Control System
-3. Difference Between Git and GitHub
-4. Git Installation
-5. Basic Git Commands
-6. Resetting and reverting
-7. Branches in Git
-8. Session
-9. Open Source Library
-
-
-A version control sytem is used to maintain the released verisons of the code in real time projects helps in getting back to the stable state after the enhancement of required features.
-
-
-
 What are the key concepts you learnt from these courses
 You can choose one module from the list below:-
 1)Algorithm Analysis
@@ -24,3 +7,8 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Name: Poorna Chandrika 
+Divide and Conquer Algorithm
+Divide and conquer algorithms are a problem-solving technique that involves breaking down a large, complex problem into smaller, more manageable subproblems, solving these subproblems recursively, and then combining the solutions to solve the original problem. This approach is often used in computer science to design efficient algorithms. 
